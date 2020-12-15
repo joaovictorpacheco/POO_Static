@@ -1,0 +1,13 @@
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\bin\Debug\netcoreapp3.1\POOStatic.exe
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\bin\Debug\netcoreapp3.1\POOStatic.deps.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\bin\Debug\netcoreapp3.1\POOStatic.runtimeconfig.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\bin\Debug\netcoreapp3.1\POOStatic.runtimeconfig.dev.json
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\bin\Debug\netcoreapp3.1\POOStatic.dll
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\bin\Debug\netcoreapp3.1\POOStatic.pdb
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\obj\Debug\netcoreapp3.1\POOStatic.csprojAssemblyReference.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\obj\Debug\netcoreapp3.1\POOStatic.AssemblyInfoInputs.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\obj\Debug\netcoreapp3.1\POOStatic.AssemblyInfo.cs
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\obj\Debug\netcoreapp3.1\POOStatic.csproj.CoreCompileInputs.cache
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\obj\Debug\netcoreapp3.1\POOStatic.dll
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\obj\Debug\netcoreapp3.1\POOStatic.pdb
+C:\Users\drica\OneDrive\Área de Trabalho\CURSO\C#\POOStatic\obj\Debug\netcoreapp3.1\POOStatic.genruntimeconfig.cache
